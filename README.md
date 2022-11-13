@@ -2,10 +2,10 @@
 
 ![test](https://github.com/souta-pqr/Souta-Kobori/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足す。
+## 何をするためのソフトか
+標準入力から読み込んだ数字を足すためのもの。
 
 ## 必要なソフトウェア
-
 * python
   * テスト済み: 3.7～3.10
 
