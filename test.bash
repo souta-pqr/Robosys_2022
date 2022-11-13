@@ -1,5 +1,5 @@
 #!/bin/bash
-# SPDX-FileCopyrightText: 2022 Kobori Souta
+# SPDX-FileCopyrightText: 2022 Souta Kobori
 # SPDX-License-Identifier: BSD-3-Clause
 
 ng () {
