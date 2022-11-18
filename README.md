@@ -3,20 +3,20 @@
 ![test](https://github.com/souta-pqr/Souta-Kobori/actions/workflows/test.yml/badge.svg)
 
 ## 何をするためのソフトか
-標準入力から読み込んだ数字を足すためのもの。
+標準入力から読み込んだ数字を足すためのもの.
 
 ## 必要なソフトウェア
 * python
   * テスト済み: 3.7～3.10
 
 ## テスト環境
-* ubuntu
+* ubuntu 18.04
 
 ## 起動する手順
-* このリポジトリのplusを開く
+* ubuntu 18.04のターミナル上で、git cloneによってリポジトリをコピーし、このリポジトリに移動する.
 
 ## 簡単な使い方
-* seq 5 | ./plus
+* 'seq 5 | ./plus'
   * 実行結果→15
 
 ## 概要
